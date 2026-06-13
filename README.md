@@ -36,19 +36,15 @@ A Data Science and Machine Learning project designed to analyze the primary fact
 
 - UAB Data Science Camp
 - [Dataset](https://github.com/shreybirmiwal/college-predictor/blob/main/1-DataPrep/7-manually-clean/CLEAN.csv)
-- Libraries:
-  - data.table
-  - tidyverse
-  - rpart
-  - rpart.plot
-  - randomForest
-  - caret
-  - dplyr
-  - stringr
-  - readr
-  - tidyr
-  - forcats
-  - corrplot
+
+## R Library Frameworks
+
+- Kuhn, M. (2020). caret: Classification and Regression Training. R package version 6.0-86.
+- Liaw, A., & Wiener, M. (2002). Classification and Regression by randomForest. R News, 2(3), 18-22.
+- Wei, T., & Simko, V. (2021). R package 'corrplot': Visualization of a Correlation Matrix. Version 0.92.
+- Wickham, H., et al. (2019). Welcome to the tidyverse. Journal of Open Source Software, 4(43), 1686.
+- Dowle, M., & Srinivasan, A. (2023). data.table: Extension of data.frame. R package version 1.14.8.
+- Therneau, T., & Atkinson, B. (2022). rpart: Recursive Partitioning and Regression Trees. R package version 4.1.19.
 
 ## License
 
