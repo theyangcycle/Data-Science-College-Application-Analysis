@@ -52,4 +52,6 @@ This was created for educational purposes
 
 ## Authors
 
-Jonah Yang, Jason Chacko, Rehan Jiwani
+- Jonah Yang
+- [Jason Chacko](https://github.com/jasonchacko7)
+- Rehan Jiwani
